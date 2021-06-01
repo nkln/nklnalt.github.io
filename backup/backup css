@@ -1,0 +1,41 @@
+
+.intro {
+    margin: 0 auto;
+    max-width: 1230px;
+    padding: 40px 60px;
+    border: solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.55);
+}
+
+.intro h1 {
+    color: #233044;
+    z-index: 5;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 3.48rem;
+    margin-top: 3vw;
+    max-width: 31.9rem;
+    margin-bottom: 1.5vw;
+}
+
+.intro h2 {
+    font-family: "Lato", sans-serif;
+    color: #454963;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 3.3rem;
+    max-width: 37.7rem;
+}
+
+.intro h4 {
+    margin-top: 1.45rem;
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    margin-bottom: 1.74rem;
+    line-height: 1.45rem;
+    color: #686F94;
+    letter-spacing: 0em;
+    font-size: 23px;
+}
